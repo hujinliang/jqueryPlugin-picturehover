@@ -54,7 +54,7 @@ $("#container").picturehover({
 
 ## Event
 
-There are two events ---'slideInEnd' and 'slideOutEnd',they are triggered when the overlay slidIn and the overlay slideOut
+There are two events ---'slideInEnd' and 'slideOutEnd',they are triggered when the overlay slidIn and the overlay slideOut,the argument--data is the index of the img of the container.
 ```js
 $('#container').picturehover().on('slideInEnd',function(event,data){
       console.log('In-----'+data);
