@@ -67,3 +67,4 @@ $('#container').picturehover().on('slideInEnd',function(event,data){
 ## Demo
 
 There are 3 demos,you can learn how to use the simple plugin
+* [working with wookmark](http://wayou.github.io/SlipHover/wookmark.html)
