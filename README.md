@@ -67,4 +67,4 @@ $('#container').picturehover().on('slideInEnd',function(event,data){
 ## Demo
 
 There are 3 demos,you can learn how to use the simple plugin
-* [demo](https://github.com/HUJINLIANG/jqueryPlugin-picturehover/blob/master/demo-basic.html)
+* [demo](http://htmlpreview.github.io/?https://github.com/HUJINLIANG/jqueryPlugin-picturehover/blob/master/demo-basic.html)
