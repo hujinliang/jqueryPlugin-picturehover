@@ -42,7 +42,6 @@ call the the plugin on a container wish you wish
 ```js
 $("#container").picturehover({
     height:'50%',
-    duration:slow,
     duration:'fast',
     fontColor:'#fff',
     textAlign:'center',
